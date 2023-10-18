@@ -5,7 +5,7 @@ int main()
 {
 
     char str[10];
-    int contadorVogais, contadorConsoantes;
+    int contadorVogais = 0, contadorConsoantes = 0;
 
     printf("Digite um texto: ");
     scanf("%s", str);
@@ -13,7 +13,7 @@ int main()
     for (int i = 0; i < 10; i++)
     {
 
-        if (str[i] >= 'A' || str[i] <= 'Z' && str[i] >= 'a' || str[i] <= 'z')
+        if (str[i] >= 'A' && str[i] <= 'Z' || str[i] >= 'a' && str[i] <= 'z')
         {
             contadorConsoantes++;
             if (str[i] == 'a' || str[i] == 'e' || str[i] == 'i' || str[i] == 'o' || str[i] == 'u')
