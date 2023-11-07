@@ -3,7 +3,7 @@
 
 int main()
 {
-    FILE *arquivo = fopen("arquivo-01.txt", "r+");
+    FILE *arquivo = fopen("../arquivo-01.txt", "r+");
     char palavras[100];
     int contador = 0;
 
@@ -24,10 +24,10 @@ int main()
             }
         }
 
-        fclose (arquivo);
+        fclose(arquivo);
     }
 
-    printf("A quantidade de linhas é:", contador);
+    printf("A quantidade de linhas é: %d\n", contador);
 
     return 0;
 }

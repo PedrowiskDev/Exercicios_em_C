@@ -7,4 +7,3 @@ Lince-iberico;Lynx pardinus;false;27;13;
 Onca-pintada;Panthera onca;false;92;23;
 Puma;Puma concolor;false;72;9;
 Tigre;Panthera tigris;false;290;25;
-
