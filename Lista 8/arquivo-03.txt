@@ -1,0 +1,24 @@
+Felinos para o intervalo 5 - 15:
+  Nome: Gato domestico
+  Nome: Gato-leopardo-asiatico
+Felinos para o intervalo 10 - 15:
+Felinos para o intervalo 0 - 0:
+Felinos para o intervalo 50 - 200:
+  Nome: Leao
+  Nome: Leopardo
+  Nome: Onca-pintada
+  Nome: Puma
+Felinos para o intervalo 20 - 50:
+  Nome: Jaguatirica
+  Nome: Lince-iberico
+Felinos para o intervalo 20 - 100:
+  Nome: Jaguatirica
+  Nome: Leopardo
+  Nome: Lince-iberico
+  Nome: Onca-pintada
+  Nome: Puma
+Felinos para o intervalo 90 - 300:
+  Nome: Leao
+  Nome: Leopardo
+  Nome: Onca-pintada
+  Nome: Tigre

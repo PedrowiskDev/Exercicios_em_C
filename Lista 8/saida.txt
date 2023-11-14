@@ -1,0 +1,3 @@
+Peso Máximo: 290.00
+Peso Mínimo: 7.00
+Média de Pesos: 88.33
